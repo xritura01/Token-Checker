@@ -95,7 +95,6 @@ output/YYYY-MM-DD_HH-MM-SS/
 This tool is for educational purposes only. Checking or managing Discord accounts without permission is against Discord's Terms of Service. Use responsibly.
 
 -----
-
-<p align="center"\>
-Built with 💚 by <a href="[https://www.utilitytoolsv2.store/](https://www.utilitytoolsv2.store/)"\>UtilityToolsV2</a>
-</p\>
+<p align="center">
+  Built with 💚 by <a href="https://www.utilitytoolsv2.store/">UtilityToolsV2</a>
+</p>
