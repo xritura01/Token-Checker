@@ -2,17 +2,17 @@
 
  <p align="center"\><img src="check.JPG" alt="UtilityToolsV2" width="1000"\></p\>
 
-<h1 align="center"\>UtilityToolsV2 | Token Checker\</h1\>
+<h1 align="center"\>UtilityToolsV2 | Token Checker</h1\>
 <p align="center"\>
-<b\>High-Performance Discord Token Validator & Data Extractor\</b\><br>
-<i\>Validate · Extract · Sort · Advanced TLS Fingerprinting\</i\>
+<b\>High-Performance Discord Token Validator & Data Extractor</b\><br>
+<i\>Validate · Extract · Sort · Advanced TLS Fingerprinting</i\>
 </p\>
 
 <p align="center"\>
-<a href="\#-features"\>Features\</a\> •
-<a href="\#-quick-start"\>Quick Start\</a\> •
-<a href="\#-output-structure"\>Output Structure\</a\> •
-<a href="\#-technical-specs"\>Technical Specs\</a\>
+<a href="\#-features"\>Features</a\> •
+<a href="\#-quick-start"\>Quick Start</a\> •
+<a href="\#-output-structure"\>Output Structure</a\> •
+<a href="\#-technical-specs"\>Technical Specs</a\>
 </p>
 
 -----
@@ -96,6 +96,6 @@ This tool is for educational purposes only. Checking or managing Discord account
 
 -----
 
-\<p align="center"\>
-Built with 💚 by \<a href="[https://www.utilitytoolsv2.store/](https://www.utilitytoolsv2.store/)"\>UtilityToolsV2\</a\>
-\</p\>
+<p align="center"\>
+Built with 💚 by <a href="[https://www.utilitytoolsv2.store/](https://www.utilitytoolsv2.store/)"\>UtilityToolsV2</a\>
+</p\>
