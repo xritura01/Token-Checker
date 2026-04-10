@@ -1,6 +1,6 @@
 
 
- <p align="center"\>\<img src="check.JPG" alt="UtilityToolsV2" width="1000"\>\</p\>
+ <p align="center"\><img src="check.JPG" alt="UtilityToolsV2" width="1000"\></p\>
 
 <h1 align="center"\>UtilityToolsV2 | Token Checker\</h1\>
 <p align="center"\>
