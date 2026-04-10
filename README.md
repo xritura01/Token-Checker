@@ -97,5 +97,5 @@ This tool is for educational purposes only. Checking or managing Discord account
 -----
 
 <p align="center"\>
-Built with 💚 by <a href="[https://www.utilitytoolsv2.store/](https://www.utilitytoolsv2.store/)"\>UtilityToolsV2</a\>
+Built with 💚 by <a href="[https://www.utilitytoolsv2.store/](https://www.utilitytoolsv2.store/)"\>UtilityToolsV2</a>
 </p\>
