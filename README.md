@@ -1,23 +1,19 @@
-I've got you. To avoid the Markdown "box within a box" issue that breaks GitHub copy-pasting, I have structured this as a single, continuous block.
 
-Save the following content as `README.md` in your project root.
 
------
+ <p align="center"\>\<img src="check.JPG" alt="UtilityToolsV2" width="1000"\>\</p\>
 
-# \<p align="center"\>\<img src="check.JPG" alt="UtilityToolsV2" width="1000"\>\</p\>
+<h1 align="center"\>UtilityToolsV2 | Token Checker\</h1\>
+<p align="center"\>
+<b\>High-Performance Discord Token Validator & Data Extractor\</b\><br>
+<i\>Validate · Extract · Sort · Advanced TLS Fingerprinting\</i\>
+</p\>
 
-\<h1 align="center"\>UtilityToolsV2 | Token Checker\</h1\>
-\<p align="center"\>
-\<b\>High-Performance Discord Token Validator & Data Extractor\</b\><br>
-\<i\>Validate · Extract · Sort · Advanced TLS Fingerprinting\</i\>
-\</p\>
-
-\<p align="center"\>
-\<a href="\#-features"\>Features\</a\> •
-\<a href="\#-quick-start"\>Quick Start\</a\> •
-\<a href="\#-output-structure"\>Output Structure\</a\> •
-\<a href="\#-technical-specs"\>Technical Specs\</a\>
-\</p\>
+<p align="center"\>
+<a href="\#-features"\>Features\</a\> •
+<a href="\#-quick-start"\>Quick Start\</a\> •
+<a href="\#-output-structure"\>Output Structure\</a\> •
+<a href="\#-technical-specs"\>Technical Specs\</a\>
+</p>
 
 -----
 
